@@ -681,7 +681,7 @@ To start, add a new key to `_data/navigation.yml`. This will be referenced later
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
+      - title: "Quick-Start Guide6"
         url: /docs/quick-start-guide/
       - title: "Structure"
         url: /docs/structure/
